@@ -175,12 +175,21 @@ image: /landscape.png
 
 ---
 layout: quote
-transition: slide-left
+transition: slide-up
 ---
 
 # Internal Developer Platforms are a strategic commitment. Share learnings & build in the open.
 
 \- from the CNOE project's website <sup><a href="https://cnoe.io">3</a></sup>
+
+---
+layout: quote
+transition: slide-left
+---
+
+# Don't Reinvent When You Can Reuse and Adapt
+
+[@horovits](https://x.com/horovits), KCD Munich 2024
 
 ---
 layout: default
